@@ -1,0 +1,19 @@
+# Virtual environment
+cv_env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
+
+# Model weights (optional)
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
