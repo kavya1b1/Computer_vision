@@ -42,8 +42,8 @@ The system combines multiple computer vision techniques to ensure accurate and r
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/driver-monitoring-system.git
-cd driver-monitoring-system
+git clone https://github.com/kavya1b1/Computer_vision.git
+cd Computer_vision
 ```
 
 ### 2. Create virtual environment (recommended)
